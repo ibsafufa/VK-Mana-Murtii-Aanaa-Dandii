@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE html>
 <html lang="om">
 <head>
@@ -109,8 +108,8 @@
 
         <!-- Main Content Section -->
         <div class="main-content">
-            <Marquee>Mana Murtii Aanaa Dandii</marquee>
-
+        <!-- Main Content Section -->
+        <div class="main-content">
             <h3>Viidiyoo Konfiransii Dhaddacha Hariiroo Hawaasa Jalqabuf Dhaddacha Armaan Gadii Cuqaasaa!</h3>
 
             <p><a href="https://meet.google.com/rua-wvoy-muq" target="_blank">Dhaddacha 1ffaa - Haariroo Hawaasaa</a></p>
